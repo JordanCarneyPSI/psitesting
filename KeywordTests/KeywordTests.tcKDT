@@ -30,5 +30,6 @@
 			<child name="HoldNote" key="{23F6220C-FF8B-4FE1-A70A-1696DC804F92}" path="Receiving\HoldNote.tcKDTest" />
 			<child name="Release" key="{789AB65A-60DC-4FBF-9951-C45DC0F53EA3}" path="Receiving\Release.tcKDTest" />
 		</folder>
+		<child name="ProductionTest" key="{6759FB6B-05A8-4F4B-B3CE-C37D526FE028}" path="ProductionTest.tcKDTest" />
 	</children>
 </Root>
